@@ -7,5 +7,5 @@ body{
 header{
 	height: 800px;
 	width: auto;
-	background-image: url(Snoopy.jpg); 
+	background-image: url('Snoopy.jpg'); 
 }
