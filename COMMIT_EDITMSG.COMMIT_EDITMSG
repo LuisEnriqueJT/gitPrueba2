@@ -1,0 +1,29 @@
+
+Tenemos el encabezado agregado
+# --------------
+# Please enter the commit message for your changes. Everything below
+# this paragraph is ignored, and an empty message aborts the commit.
+# Just close the window to accept your message.
+diff --git a/index.html b/index.html
+new file mode 100644
+index 0000000..6137fcd
+--- /dev/null
++++ b/index.html
+@@ -0,0 +1,16 @@
++<!DOCTYPE html>
++<html>
++<head>
++	<link rel="stylesheet" type="text/css" href="MisEstilos1.css">
++	<title>Project</title>
++</head>
++<body>
++
++	<header>
++		<div id="cabecera">
++			PAGINA 1
++		</div>
++	</header>
++
++</body>
++</html>
+\ No newline at end of file
