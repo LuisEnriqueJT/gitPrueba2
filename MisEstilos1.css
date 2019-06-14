@@ -1,9 +1,14 @@
 body{
-	background-color: #3194E8;
+	background-image: url("Captura.jpg");
 }
 
 header{
 	border: 5px solid white;
-	height: 800px;
+	height: 100px;
 	width: auto;
+}
+
+#cuerpo{
+	width: 100%;
+	height: 100px;
 }
