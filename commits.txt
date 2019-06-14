@@ -1,0 +1,47 @@
+commit 498a5a459932e6de73a6ba861e13f62ba2cd6389
+Author: LuisEnriqueJT <luisenrique.jt@outlook.com>
+Date:   Fri Jun 14 00:19:55 2019 -0500
+
+    Fondo de snoopy en el main
+
+commit 541487c78fb0400e5e4cd90908cadce83bdd7aba
+Author: LuisEnriqueJT <luisenrique.jt@outlook.com>
+Date:   Fri Jun 14 00:19:30 2019 -0500
+
+    Fondo de snoopy en el main
+
+commit 1724b17695b5c6b47091d3cbcf3941ce55fe7e53
+Author: LuisEnriqueJT <luisenrique.jt@outlook.com>
+Date:   Fri Jun 14 00:18:24 2019 -0500
+
+    Fondo de snoopy en el main
+
+commit 6adbd6c5fb5166046934f8f792e54f1f265c2c84
+Author: LuisEnriqueJT <luisenrique.jt@outlook.com>
+Date:   Thu Jun 13 23:42:04 2019 -0500
+
+    Se agrego contenido a la pagina en un parrafo
+
+commit 9f232e61e7f3930141f4ea9bd4854b9cc1fb069b
+Author: LuisEnriqueJT <luisenrique.jt@outlook.com>
+Date:   Thu Jun 13 23:35:24 2019 -0500
+
+    Se modifico el contenido del footer
+
+commit a8b61b4983fc8fd4cb53ae28ae7de4a05e591d7a
+Author: LuisEnriqueJT <luisenrique.jt@outlook.com>
+Date:   Thu Jun 13 23:32:38 2019 -0500
+
+    Cambiamos los colores del main y footer
+
+commit 6e9b8cf010a60535882d70f6bb719035458c99be
+Author: LuisEnriqueJT <luisenrique.jt@outlook.com>
+Date:   Thu Jun 13 23:30:08 2019 -0500
+
+    Agregamos el main y footer
+
+commit e5f8dccabf2103666f89b7c7787833e40b673769
+Author: LuisEnriqueJT <luisenrique.jt@outlook.com>
+Date:   Thu Jun 13 20:49:01 2019 -0500
+
+    Tenemos el encabezado agregado
